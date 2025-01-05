@@ -1,2 +1,5 @@
 # discord-server-scraper
-Copy your Discord Server into a .json
+
+This App is violating the Discord TOS, use it with caution!!!!!!!!!!!
+
+Contact: theerrorexe@errexe.xyz
